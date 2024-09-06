@@ -1,0 +1,15 @@
+{
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error fetching weather data",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "weather_app": "Weather App",
+    "get_weather": "Get Weather",
+    "enter_city": "Enter city",
+    "current_weather": "Current Weather",
+    "condition": "Condition",
+    "city_required": "City field is required.",
+    "invalid_city": "City should be a string.",
+    "city_length_error": "City length should be between 1 and 20 digits."
+  }

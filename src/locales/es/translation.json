@@ -1,0 +1,15 @@
+{
+  "search": "Buscar",
+  "loading": "Cargando...",
+  "error": "Error al obtener los datos del clima",
+  "temperature": "Temperatura",
+  "humidity": "Humedad",
+  "weather_app": "Aplicación del tiempo",
+  "get_weather": "Obtener el tiempo",
+  "enter_city": "Introducir ciudad",
+  "current_weather": "Clima actual",
+  "condition": "Condición",
+  "city_required": "El campo de la ciudad es obligatorio.",
+  "invalid_city": "La ciudad debería ser una cuerda.",
+  "city_length_error": "La longitud de la ciudad debe tener entre 1 y 20 dígitos."
+}
